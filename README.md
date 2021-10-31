@@ -1,5 +1,6 @@
 ## About me
 
+A student and an OIer
 
 ## Statistics
 
