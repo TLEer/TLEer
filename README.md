@@ -3,7 +3,7 @@
 
 ## Statistics
 
-![stat](https://githubreadme-chi.vercel.app/api?username=TLEer&show_icons=true&show_icons=true&count_private=true) ![Top Langs](https://githubreadme-chi.vercel.app/api/top-langs/?username=TLEer&layout=compact)
+![stat](https://githubreadme-chi.vercel.app/api?username=TLEer&show_icons=true&show_icons=true&count_private=true) ![Top Langs](https://githubreadme-chi.vercel.app/api/top-langs/?username=TLEer&hide=javascript,html&layout=compact)
 
 (I don't know what the heck happened to the Top Langs card)
 
