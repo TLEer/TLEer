@@ -1,6 +1,6 @@
 ## About me
 
-A student and an OIer
+A student and an Competitive Programming "player"
 
 ## Statistics
 
