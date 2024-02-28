@@ -1,18 +1,11 @@
 ## About me
 
-A student and an Competitive Programming "player"
-
-## Statistics
-
-![stat](https://githubreadme-chi.vercel.app/api?username=TLEer&show_icons=true&show_icons=true&count_private=true) ![Top Langs](https://githubreadme-chi.vercel.app/api/top-langs/?username=TLEer&hide=javascript,mathematica&layout=compact)
-
-(I don't know what the heck happened to the Top Langs card)
-
+An undergraduate from Hefei University of Technology and a Competitive Programmer.
 
 ## Skills
 
-C++/C#/Java(learning)/Mathematica(learning)
+C++/C#/Java(learning)/Python(learning)/Mathematica(forgotten)
 
-## For OI
+## My Online Judge Accounts
 
 [![zsexdr](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.vercel.app%2Fapi%2Fatcoder%2Fjson%2Fzsexdr)](https://atcoder.jp/users/zsexdr)
