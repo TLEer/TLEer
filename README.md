@@ -2,9 +2,13 @@
 
 An undergraduate from Hefei University of Technology and a Competitive Programmer.
 
+Interested in AI4S and Financial Engineering.
+
+Languages： English/Mandarin/Cantonese/Deutsch (learning)
+
 ## Skills
 
-C++/C#/Java(learning)/Python(learning)/Mathematica(forgotten)
+C++/Verilog/Python(learning)/Mathematica(forgotten)
 
 ## My Online Judge Accounts
 
